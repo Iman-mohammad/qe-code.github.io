@@ -1,0 +1,85 @@
+/*universal style*/
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Outfit', sans-serif;
+    font-size: 15px;
+    background-color: hsl(212, 45%, 89%);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 41rem;
+    margin: 0;
+    padding: 0;
+}
+
+
+main{
+    width: 350px;
+    height: 510px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: hsl(0, 0%, 100%);
+    border-radius: 1.3rem;
+    padding:1rem;
+    box-shadow: 0 4px 8px 0 hsl(212, 28%, 76%), 0 6px 20px 0 hsl(212, 28%, 76%);
+    margin-bottom: 3%;
+
+}
+
+@media screen and (max-width:700px) {
+    main{
+        margin-bottom: 7%;
+    }
+    
+}
+figure{
+    height: 63%;
+    width: 100%;
+    margin-bottom: 7%;
+}
+
+img{
+    height: 100%;
+    width: 100%;
+    border-radius: 1rem;
+}
+
+section{
+    height: 35%;
+    border-radius: 1rem;
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 4%;
+    font-size: 1.5rem;
+    color: hsl(218, 44%, 22%);
+}
+
+p{
+    font-size: 1.1rem;
+    color: hsl(220, 15%, 55%);
+}
+
+footer{
+   margin: 0;
+    text-align: center;
+    height: 1%;
+}
+
+a{
+    color: hsl(224, 99%, 40%);
+    text-decoration: none;
+}
+
+a:hover{
+    font-weight: bold;
+}
