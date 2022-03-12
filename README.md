@@ -1,1 +1,1 @@
-# qe-code.github.io
+# qr-code.github.io
