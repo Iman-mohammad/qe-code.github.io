@@ -16,7 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 This project build out QR-code component, it designed to make users able to View the optimal layout depending on their device's screen size
 
 ### Screenshot
-<img src"Screenshot 2022-03-12 at 20-38-56 Qr-Code.png">
+<img src="Screenshot 2022-03-12 at 20-38-56 Qr-Code.png">
 ### Links
 
 - Solution URL: [https://github.com/Iman-mohammad/qr-code.github.io](https://your-solution-url.com)
