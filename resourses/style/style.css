@@ -13,7 +13,7 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    height: 39rem;
+    height: 41rem;
     margin: 0;
     padding: 0;
 }
@@ -30,7 +30,7 @@ main{
     border-radius: 1.3rem;
     padding:1rem;
     box-shadow: 0 4px 8px 0 hsl(212, 28%, 76%), 0 6px 20px 0 hsl(212, 28%, 76%);
-    margin-bottom: 2%;
+    margin-bottom: 5%;
 }
 
 figure{
